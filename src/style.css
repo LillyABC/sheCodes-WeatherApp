@@ -149,3 +149,15 @@ a {
   position: relative;
   top: -5px;
 }
+.gitHubLink {
+  color: rgb(229, 245, 242);
+  font-size: 11px;
+  text-align: center;
+}
+.codeLink {
+  color: rgb(229, 160, 183);
+  text-decoration: underline;
+}
+.codeLink:hover {
+  color: rgb(155, 31, 72);
+}
